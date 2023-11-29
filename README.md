@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **bobbydem2@gmail.com**
+- 📫 How to reach me: **bobbydem2@gmail.com**
 
-- ⚡ Fun facts about me: **I play drums in a band and i like skateboarding**
+- ⚡ Fun facts about me: **I play drums in a band and I like skateboarding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

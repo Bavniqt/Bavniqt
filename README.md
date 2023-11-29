@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Borislav Demirev 👋</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** in my school: Sofia Vocational High School of Electronics ,,John Atanasoff"
 
 - 📫 How to reach me: **bobbydem2@gmail.com**
 
